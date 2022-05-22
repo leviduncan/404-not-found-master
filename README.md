@@ -34,13 +34,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/leviduncan/404-not-found-master/master/assets/404-not-found.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
+When building UIs, you should definitely, always consider using flexbox or grid, as they give you more precise control over the layout of the UI.
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
